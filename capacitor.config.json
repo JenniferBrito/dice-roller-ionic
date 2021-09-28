@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dice-roller",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
